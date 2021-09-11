@@ -1,0 +1,7 @@
+{
+  "hello": "Hello, user!",
+  "fruits": {
+    "one": "You've been given an apple.",
+    "many": "You've been given % apples."
+  }
+}
