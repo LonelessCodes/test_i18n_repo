@@ -1,0 +1,4 @@
+hello: "Hallo, Nutzerin"
+fruits:
+  one: "Dir wurde ein Apfel gegeben"
+  other: "Dir wurden % Äpfel gegeben"
